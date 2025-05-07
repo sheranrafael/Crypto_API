@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cryptocurrency: one
+  price: 9.99
+  timestamp: 2025-05-04 19:22:40
+
+two:
+  cryptocurrency: two
+  price: 9.99
+  timestamp: 2025-05-04 19:22:40

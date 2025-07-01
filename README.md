@@ -36,7 +36,7 @@ Development Tools
 -RSpec/Minitest
 
 ## Screenshot
-![Captura de tela 2025-06-25 163136](https://github.com/user-attachments/assets/81859a7f-bfef-465c-adf6-50b836cb13eb)
+![A](https://github.com/user-attachments/assets/28180dc2-f538-4684-99ae-7baec5a03955)
 
 ## Installation
 ´´´bash

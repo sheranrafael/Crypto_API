@@ -33,7 +33,9 @@ A simple API for real-time cryptocurrency price queries, developed with Ruby on 
 ### Development Tools
 
 -Bundler (Ruby dependency management)
+
 -RSpec/Minitest
+
 
 ## Screenshot
 ![A](https://github.com/user-attachments/assets/28180dc2-f538-4684-99ae-7baec5a03955)

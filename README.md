@@ -24,13 +24,13 @@ A simple API for real-time cryptocurrency price queries, developed with Ruby on 
 - CSS3
 - JavaScript ES6
 
-Infrastructure/DevOps
+### Infrastructure/DevOps
 
 - Docker
 - Shell Script (for automation)
 - Render (for deployment)
 
-Development Tools
+### Development Tools
 
 -Bundler (Ruby dependency management)
 -RSpec/Minitest

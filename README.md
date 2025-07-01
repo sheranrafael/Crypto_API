@@ -39,7 +39,7 @@ Development Tools
 ![A](https://github.com/user-attachments/assets/28180dc2-f538-4684-99ae-7baec5a03955)
 
 ## Installation
-´´´bash
+´´´´bash
 git clone https://github.com/sheranrafael/Crypto-API.git  
 cd crypto_api  
 bundle install  

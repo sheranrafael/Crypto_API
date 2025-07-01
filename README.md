@@ -1,31 +1,46 @@
-# Crypto API 🚀
+# Crypto API
 
-Uma API simples para consulta de cotações de criptomoedas em tempo real, desenvolvida com Ruby on Rails.
+A simple API for real-time cryptocurrency price queries, developed with Ruby on Rails.
 
-## 📌 Recursos
+## Features
 
-- Consulta de preços de Bitcoin e Ethereum
-- Conversão entre moedas
-- Health check da API
-- Frontend integrado com HTML/JS/CSS
+- Bitcoin and Ethereum price lookup
+- Currency conversion
+- API health check
+- Integrated frontend with HTML/JS/CSS
 
-## 🛠 Tecnologias
+## Technologies
+### Backend
 
-- Ruby 3.x
-- Rails 8.x
-- SQLite (dev)
-- HTTParty (integração com APIs)
-- CoinGecko API (dados reais)
+- Ruby 3.3.7
+- Rails 8.0.2
+- PostgreSQL 17.5 (replacing SQLite 3.50.2)
+- HTTParty (for external API integration)
+- CoinGecko API
 
-## ⚡ Como Usar
+### Frontend
 
-### Requisitos
-- Ruby 3.x instalado
-- Bundler (`gem install bundler`)
+- HTML5
+- CSS3
+- JavaScript ES6
 
-### Instalação
-```bash
-git clone [seu-repositorio]
-cd crypto_api
-bundle install
-rails db:create db:migrate
+Infrastructure/DevOps
+
+- Docker
+- Shell Script (for automation)
+- Render (for deployment)
+
+Development Tools
+
+-Bundler (Ruby dependency management)
+-RSpec/Minitest
+
+## Screenshot
+![Captura de tela 2025-06-25 163136](https://github.com/user-attachments/assets/81859a7f-bfef-465c-adf6-50b836cb13eb)
+
+## Installation
+´´´bash
+git clone https://github.com/sheranrafael/Crypto-API.git  
+cd crypto_api  
+bundle install  
+rails db:create db:migrate  

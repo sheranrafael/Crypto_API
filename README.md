@@ -40,7 +40,7 @@ Development Tools
 
 ## Installation
 ```bash
-git clone https://github.com/sheranrafael/Crypto-API.git  
+git clone https://github.com/sheranrafael/Crypto_API.git
 cd crypto_api  
 bundle install  
 rails db:create db:migrate  

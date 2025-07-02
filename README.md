@@ -28,7 +28,6 @@ A simple API for real-time cryptocurrency price queries, developed with Ruby on 
 
 - Docker
 - Shell Script (for automation)
-- Render (for deployment)
 
 ### Development Tools
 

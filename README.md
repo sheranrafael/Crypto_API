@@ -42,6 +42,6 @@ A simple web application for real-time cryptocurrency price queries, developed w
 ## Installation
 ```bash
 git clone https://github.com/sheranrafael/Crypto_API.git
-cd crypto_api  
+cd crypto
 bundle install  
 rails db:create db:migrate  
